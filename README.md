@@ -1,4 +1,4 @@
-# Potential_Friend_Recommendation_System
+# Potential Friend Recommendation System
 In this project, we leveraged the "Twitter Friends" dataset sourced from Kaggle, which you can access through the following link https://www.kaggle.com/datasets/hwassner/TwitterFriends.
 Our approach involved utilizing Neo4j as the database system to store and manage this data effectively.
 
